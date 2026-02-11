@@ -65,7 +65,7 @@ tourist-places-up/
 1️⃣ Clone the repository
 
 ```bash
-git clone https://github.com/your-username/tourist-places-up.git
+git clone https://github.com/AvneshTech/tourist-places-up.git
 ```
 
 2️⃣ Open the folder  
