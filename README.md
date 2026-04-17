@@ -104,7 +104,7 @@ Use **Live Server** in VS Code for better experience.
 
 ## 👨‍💻 Author
 
-**Avnesh**
+**Avnesh Kumar**
 
 ⭐ If you like this project, consider giving it a star!
 
